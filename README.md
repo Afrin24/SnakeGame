@@ -1,3 +1,1 @@
-# Interview dataset
-# snake game
 
